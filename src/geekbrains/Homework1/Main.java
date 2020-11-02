@@ -78,6 +78,7 @@ public class Main {
 	}else{
 		System.out.println("Год явялется невисокосным");
 	}
+		System.out.println("Спасибо!");
 	}
 }
 
